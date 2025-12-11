@@ -8,5 +8,5 @@ python -m pip install --upgrade "pymongo[srv]"
 
 ------
 
-jupyter notebook 실행후 같은 폴더에 data_loader.py, example.ipybm 넣기
+jupyter notebook 실행후 같은 폴더에 data_loader.py, example.ipynb 넣기
 
